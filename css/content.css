@@ -1,0 +1,49 @@
+body {
+    background-image: url("../img/back-goku.jpg");
+    background-image: none;
+
+}
+
+#back {
+    background-image: 100px;
+}
+
+.container {
+    width: 70%;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+}
+
+main {
+    background: white;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid gold;
+    padding: 15px;
+    margin: 5px;
+}
+
+p::selection {
+    background: red;
+    color: white;
+}
+
+article::selection {
+    background: red;
+    color: white;
+}
+
+#email {
+    width: 50%;
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#comment {
+    width: 50%;
+    position: relative;
+    margin-top: 10px;
+}

@@ -1,0 +1,28 @@
+
+.link-sleeping {
+    height: 250px;
+    width: 400px;
+    left: 200px;
+    position: relative;
+}
+
+.header-img {
+    width: 20vh;
+    height: 20vh;
+}
+
+.gaia {
+    height: 300px;
+    width: 400px;
+    background-position: center;
+}
+
+.big-two {
+    width: 50px;
+    height: 100px;
+}
+
+.losz {
+    width: 100vh;
+    height: 250px;
+}

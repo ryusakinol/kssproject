@@ -1,0 +1,21 @@
+aside {
+    width: 200px;
+    height: 500px;
+    padding: 10px;
+    margin: 10px;
+    display: block;
+    background: wheat;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.aside-link a {
+    text-align: left;
+    display: inline;
+    color: black;
+    border-radius: 10px;
+    list-style:armenian;
+    font-size: 16px;
+}
