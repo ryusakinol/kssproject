@@ -1,5 +1,9 @@
 body {
-    background-image: url("../img/back-goku.jpg");
+    background: url("../img/back-goku.jpg") no-repeat center center fixed ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 #back {
