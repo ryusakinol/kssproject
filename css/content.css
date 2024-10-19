@@ -1,7 +1,5 @@
 body {
     background-image: url("../img/back-goku.jpg");
-    background-image: none;
-
 }
 
 #back {
@@ -17,12 +15,13 @@ body {
 }
 
 main {
-    background: white;
+    background: rgba(255, 255, 255, 0.26);
     color: black;
     border-radius: 10px;
     border: 2px solid gold;
     padding: 15px;
     margin: 5px;
+    font-size: larger;
 }
 
 p::selection {
@@ -46,4 +45,9 @@ article::selection {
     width: 50%;
     position: relative;
     margin-top: 10px;
+}
+
+.campo {
+    font-size: medium;
+    color: brown;
 }
