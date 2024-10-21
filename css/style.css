@@ -1,41 +1,122 @@
-.header-img {
-    height: 10%;
-    width: 20%;
-}
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="es">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="ahrefs-site-verification" content="5c1bc7425023c0a4aa0731d572ce81530a65dce046684b4a9fd0a77e28473db5">
+<title>Dragon World</title>
+<link rel="icon" href="bola.ico">
+<link rel="stylesheet" href="css/aside.css">
+<link rel="stylesheet" href="css/content.css">
+<link rel="stylesheet" href="css/nav.css">
+<link rel="stylesheet" href="css/style-img.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
 
-a:hover {
-    color: red;
-    text-decoration: none;
-}
-.log {
-    height: 30%;
-    width: 30%;
-}
+<body>
+    <header>
+        <img src="img/Dragon_Ball_Zsvg.png" alt="logo-de-anime" class="header-img">
 
-h1 {
-    display: none;
-}
- 
-footer {
-    height: 100px;
-    padding: 10px;
-    margin: 0px;
-    border: 1px solid white;
-    background: black;
-    color: white;
-    display: block;
-    position: relative;
-}
+        <h1>Dragon ball Z</h1>
+        <hr>
+        <nav>
+            <ul class="nav-link">
+                <li><a href="/index.html">HOME</a></li>
+                <li><a href="/blog.html">BLOG</a></li>
+                <li><a href="/manga.html">MANGA</a></li>
+                <li><a href="/memes.html">MEMES</a></li>
+                <li><a href="https://ryusakinol.github.io/tabla-precio">PLANES</a></li>
+            </ul>
+        </nav>
+        <hr>
+    </header>
+    <div class="container">
+        <main>
+            <article>
+                <p class="red-pink">Dragon ball Z </p>
+                <img src="img/warrior-z.jpg" alt="los guerreros z" class="losz" id="back">
+                <h2>Los guerreros Z</h2>
 
-.box {
-    height: 100px;
-    width: 100px;
-    border-radius: 5px;
-    background-color: #fff;
-    box-shadow: 3px 3px 8px 8px;
-}
+                <p>es un manga escrito por Akira Toriyama e ilustrado por Toyotarō.Dragon Ball Super es una medicuela de Dragon Ball y comenzó a serializarse en la revista mensual V Jump, de la editorial japonesa Shūeisha, desde el 20 de junio del 2015. Es publicado simultáneamente en inglés por Viz Media y por Shūeisha en su plataforma Manga Plus. Su trama describe las aventuras de Son Gokū , un guerrero saiyajin experto en artes marciales, dos años después de la derrota de Majin Boo.En su travesía la de el y sus compañeros ponen a prueba y mejoran sus habilidades de pelea,enfrentando oponentes y protegiendo a la Tierra de los seres que quieren conquistarla y exterminar a la humanidad.
 
-.secFooter {
-    display: flex;
-    position: relative;
-}
+                    El manga tiene 100 capítulos impresos recopilados en 23 volúmenes tankōbon.3​ La serie anime se emitió en Japón desde el 5 de julio de 2015 hasta el 25 de marzo de 2018. Una película secuela, Dragon Ball Super: Broly, se estrenó el 14 de diciembre de 2018. Una segunda película, Dragon Ball Super: Super Hero, se estrenó en cines nipones el 11 de junio de 2022.</p>
+                <img src="img/b-dioses.png" alt="" style="height: 200px; width: 620px;">
+                <h2>La batalla de los dioses </h2>
+                <p>Saga de la Batalla de los Dioses
+                    Título original: Saga del Dios de la Destrucción Bills (破壊神ビルス編 Hakai-shin Birusu-hen?). Con esta saga se da comienzo a la serie y se narra la búsqueda, por parte del Dios de la destrucción Bills (Beerus en idioma japonés) y su sirviente y mentor Whis, del Super Saiyajin Dios, que podría hacerle frente en una pelea, y así poder tener algo de diversión. Esto le lleva a la Tierra donde se encuentran Goku, Vegeta y el resto de los Guerreros Z viviendo en paz absoluta.16​ Su argumento está basado en la película Dragon Ball Z: La batalla de los dioses.</p>
+                <p>
+                <h3>Legend of Zelda: A link to the Past</h3>
+                <p>Para salvar a Hyrule, Link debe rescatar a las descendientes de los Siete Sabios de las mazmorras dispersas por el Mundo Oscuro, cada uno de ellas custodiada por uno de los esbirros de Ganon. Una vez que las siete doncellas son liberadas, usan su poder para romper la barrera alrededor de la Torre de Ganon, donde Link se enfrenta a un Agahnim reencarnado, que crea dos espectros fantasmales cada uno tan poderoso como él. Después de que Link derrota a Agahnim por segunda vez, Ganon se levanta de su cuerpo, se convierte en un murciélago y vuela. Link persigue a Ganon y lo confronta dentro de la Pirámide de Poder en el centro del Mundo Oscuro. Después de una batalla que resultó en la muerte de Ganon, Link toca la Trifuerza y restaura el Mundo Oscuro y Hyrule a su estado anterior, devuelve a su tío y al sacerdote a la vida, y restaura al padre de Zelda, el verdadero.</p>
+
+                <p>es una serie de televisión de anime japonesa producida por Toei Animation . Parte de la franquicia de medios Dragon Ball , es la secuela de la serie de televisión Dragon Ball de 1986 y adapta los últimos 325 capítulos de la serie de manga Dragon Ball originalcreada por Akira Toriyama . La serie se emitió en Japón en Fuji TV desde abril de 1989 hasta enero de 1996 y luego fue doblada para su transmisión en al menos 81países en todo el mundo. [ 7 ]
+
+                    Dragon Ball Z continúa las aventuras de Son Goku en su vida adulta mientras él y sus compañeros defienden la Tierra contra villanos que incluyen extraterrestres ( Vegeta , Freezer ), androides ( Cell ) y criaturas mágicas ( Majin Buu ). Al mismo tiempo, la historia sigue la vida del hijo de Goku, Gohan , así como el desarrollo de sus rivales, Piccolo y Vegeta.
+
+                    Debido al éxito de la serie en Estados Unidos, los capítulos del manga que componen su historia fueron lanzados inicialmente por Viz Media bajo el título Dragon Ball Z. La popularidad del anime también ha generado varios medios y productos que han llegado a representar la mayoría del material dentro de la franquicia Dragon Ball , incluidas películas, lanzamientos de videos caseros, bandas sonoras, tarjetas coleccionables y videojuegos. Dragon Ball Z sigue siendo un ícono cultural a través de numerosas adaptaciones y relanzamientos, incluida una transmisión remasterizada titulada Dragon Ball Z Kai . [ d ]
+
+                    Desde entonces, a Dragon Ball Z le siguió una serie secuela titulada Dragon Ball GT (1996-1997) y una serie " intermedia " titulada Dragon Ball Super (2015-2018).</p>
+                <h2></h2>
+                <img src="img/goku-ultra.jpg" alt="">
+                <h2>Dragon ball Z</h2>
+                <p>Dragon Ball Z retoma la historia cinco años después del final de la serie Dragon Ball , con Son Goku ahora un joven adulto y padre de su hijo, Gohan .
+
+                    Un extraterrestre humanoide llamado Raditz llega a la Tierra en una nave espacial y rastrea a Goku, revelándole que él es su hermano mayor perdido hace mucho tiempo y que son miembros de una raza guerrera alienígena de élite casi extinta llamada Saiyans (サイヤ人, Saiya-jin ) . Goku (originalmente llamado Kakarotto (カカロット, Kakarotto ) había sido enviado a la Tierra cuando era un bebé para conquistar el planeta, pero sufrió un severo golpe en la cabeza poco después de su llegada y perdió todo recuerdo de su misión, así como su naturaleza Saiyan sedienta de sangre.
+
+                    Raditz le dice a Goku que junto con dos élites más fuertes, Vegeta y Nappa , son los únicos Saiyajin restantes después de que su planeta natal Vegeta fuera destruido. Raditz le pide a Goku que se aliste para ayudar a conquistar planetas y unirse a los Saiyajin restantes. Cuando Goku se niega a unirse y ayudarlos, Raditz derriba a Goku y Krillin de un solo golpe, secuestra a Gohan y amenaza con asesinarlo si Goku no mata a 100 humanos en las próximas 24 horas. Goku decide formar equipo con su archienemigo Piccolo , quien también fue derrotado por Raditz en un encuentro anterior, para derrotarlo y salvar a su hijo. Durante la batalla, la ira de Gohan lo hace momentáneamente más fuerte que Piccolo y Goku mientras ataca a Raditz para proteger a su padre. La batalla termina con Goku reteniendo a Raditz para que Piccolo pueda golpearlos con un movimiento mortal llamado Cañón de Rayos Especial (魔貫光殺砲, Makankōsappō , lit. "Pistola de Rayos Penetrantes y Asesinos de Demonios") , hiriéndolos mortalmente a ambos y matándolos poco después. Pero antes de que Raditz sucumba a sus heridas, le revela a Piccolo que los otros dos Saiyajin son mucho más fuertes que él y vendrán por las Dragon Balls en un año.
+
+                    Habiendo presenciado el potencial latente de Gohan, Piccolo lo lleva a la naturaleza para entrenar para la próxima batalla contra los Saiyajin. En el más allá, Goku viaja por el Camino de la Serpiente de un millón de kilómetros para poder entrenar con el gobernante de la Galaxia del Norte, el Rey Kai . El Rey Kai le enseña a Goku las técnicas Kaio-ken (界王拳, Kaiōken , lit. "Puño de los Reyes de los Mundos") y la Bomba Espiritual (元気玉, Genki Dama , lit. "Esfera de Energía") . A pesar de su naturaleza brusca y villana, Piccolo se encariña con Gohan mientras supervisa que aprende a valerse por sí mismo. Esto forja un vínculo emocional improbable entre los dos.</p>
+
+                <h2>Raza Sayayin</h2>
+                <img src="/img/sayayin.jpg" alt="imagen de goku, vegeta y demas en la transformacion super sayayin" style=" height: 200px;">
+                <p>
+                    Los Saiyajin son seres humanoides originarios del planeta Sadala, de contextura física musculosa y temperamento agresivo y combativo. Tienen características físicas que los distinguen de los humanos:
+
+                    Su físico es bien trabajado y tonificado debido a las constantes batallas que han tenido y a la elevada gravedad del Planeta Vegeta (10 veces más que la gravedad de la Tierra).
+                    En su estado base, tienen ojos y cabellos de color oscuro, y mantienen su peinado desde que nacen hasta la adultez, aunque pueden sufrir Calvicie.
+                    Poseen una cola prensil, similar a la de monos pequeños, que además de poder ser usada en combate, es considerada el punto débil de los Saiyajin si no se entrena correctamente. Además es de suma importancia en ciertos fenómenos que sufren estos sujetos.
+                    Al tratarse de una especie guerrera, el metabolismo de los Saiyajin es diferente: pueden resistir largas horas de combate, sin embargo, para reponer sus energías necesitan ingerir una irreal cantidad de comida (hasta el equivalente para 30 personas).
+                    El proceso de envejecimiento de los Saiyajin es mucho más lento que en los humanos, llegando a tener una apariencia joven incluso a una edad avanzada.
+                    Tras sufrir un daño grave que sea un riesgo para la vida, al reponerse, un Saiyajin incrementará drásticamente su poder. Este fenómeno es conocido como Zenkai (全開).
+                </p>
+            </article>
+            <main>
+
+                <div id="respond" class="comment-respond">
+                    <p>Deja una respuesta <small><a rel="nofollow" id="cancel-comment-reply-link" href="https://ryusakinol.github.io/Gamermaniacos-blog" method="post" id="commentform" class="comment-form" class="campo">
+                                <p class="comment-notes"><span id="email-notes">Tu dirección de correo electrónico no será publicada.</span> <span class="required-field-message" aria-hidden="true">Los campos obligatorios están marcados con <span class="required" aria-hidden="true">*</span></span></p><input placeholder="Nombre *" id="author" name="author" type="text" value="" size="30" required />
+                                <div class="fields-wrap"><input placeholder="Correo electrónico *" id="email" name="email" type="text" value="" size="30" required />
+                                    <textarea autocomplete="new-password" placeholder="Comentario" id="text-area" name="text-area" cols="45" rows="5" required></textarea><textarea id="comment" aria-label="hp-comment" aria-hidden="true" name="comment" autocomplete="new-password" style="padding:0 !important;clip:rect(1px, 1px, 1px, 1px) !important;position:absolute !important;white-space:nowrap !important;height:1px !important;width:1px !important;overflow:hidden !important;" tabindex="-1"></textarea>
+                                    <script data-noptimize type="text/javascript">
+                                        document.getElementById("comment").setAttribute("id", "a5b0ac34027023a0284754c38b1c9c1b");
+                                        document.getElementById("jc7d7a359d").setAttribute("id", "comment");
+                                    </script>
+                                    <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Publicar el comentario" /> <input type='hidden' name='comment_post_ID' value='7034' id='comment_post_ID' />
+                                        <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+                                    </p>
+                                    </form>
+                                </div>
+            </main>
+        </main>
+        <aside class="aside-link">
+            <h3>Mas Paginas</h3>
+            <li><a href="">Anime</a></li>
+            <h3>Redes</h3>
+            <li><a href="https://www.facebook.com/groups/380193522599695">ir al grupo de facebook</a></li>
+            <li><a href="https://www.youtube.com/channel/UCdzOQw7RR8RQqcDcse8j_vw">Ir al canal de Youtube</a></li>
+
+        </aside>
+    </div>
+    <div class="social-fix">
+        <div class="social-buttons flexbox">
+        </div>
+    </div>
+    </div>
+    <footer>
+        <p>Ryusakinol | Diseñado por: Tema CODE ZONE | © 2024 Mi Sitio Web</p>
+
+        <p class="secFooter">Términos y condiciones Política de privacidad Contacto</p>
+    </footer>
+</body>
+
+</html>
